@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ABOUT ME
+## About me
 Hello! I’m Cristina Resende de Almeida, a future Computer Scientist and an enthusiast of Artificial Intelligence, Data Science, and Machine Learning.
 
 I am passionate about applying technology and data analysis to solve complex problems, generate strategic insights, and create solutions that contribute to a fairer and more innovative world.
