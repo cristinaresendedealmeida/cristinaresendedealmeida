@@ -64,9 +64,10 @@ I also worked as a day trader, using statistics and programming (Mql5) to develo
 Now, my mission is to combine my multidisciplinary background with my passion for data, AI, and computer science to create solutions that make a real-world impact.
 
 ## What Drives Me
-Using data to improve education, healthcare, and social policies
-Participating in impactful global projects
-Growing as a professional in Data Science and Machine Learning while contributing to a more equitable future
+- Using data to improve education, healthcare, and social policies
+- Participating in impactful global projects
+- Growing as a professional in Data Science and Machine Learning while contributing to a more equitable future
+  
 👉 If you are looking for someone with a multidisciplinary background, strong analytical skills, and a passion for AI and data science, I’d love to connect!
 
 ## Contact
