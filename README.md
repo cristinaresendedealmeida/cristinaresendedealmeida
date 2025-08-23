@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## ABOUT ME
 Hello! I’m Cristina Resende de Almeida, a future Computer Scientist and an enthusiast of Artificial Intelligence, Data Science, and Machine Learning.
 
 I am passionate about applying technology and data analysis to solve complex problems, generate strategic insights, and create solutions that contribute to a fairer and more innovative world.
@@ -25,6 +25,7 @@ I am looking for an internship opportunity to put my technical skills into pract
 
 ## Skills & Tools
 🔹 Programming & Data
+
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, PyTorch)
 
 SQL, C++, JavaScript, Mql5
@@ -32,6 +33,7 @@ SQL, C++, JavaScript, Mql5
 Jupyter Notebook, Google Colab, Databricks
 
 🔹 Databases & Cloud
+
 Relational & NoSQL Databases
 
 Azure Blob Storage, AWS S3, Google Cloud Storage
@@ -39,6 +41,7 @@ Azure Blob Storage, AWS S3, Google Cloud Storage
 Cloud Platforms: Azure, AWS, Google Cloud
 
 🔹 Web & Tools
+
 HTML, CSS, WordPress
 
 Git & GitHub
@@ -46,6 +49,7 @@ Git & GitHub
 Notion, Atlassian, Office & Adobe Suite
 
 🔹 Soft Skills
+
 Critical Thinking & Problem-Solving
 
 Collaboration & Teamwork
