@@ -42,7 +42,7 @@ Cloud Platforms: Azure, AWS, Google Cloud
 
 🔹 Web & Tools
 
-HTML, CSS, WordPress
+HTML, CSS, WordPress, QGIS
 
 Git & GitHub
 
